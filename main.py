@@ -1,5 +1,6 @@
 import pygame
 import CONSTANS as const
+import Draw
 
 def main():
 

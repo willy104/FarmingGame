@@ -1,6 +1,6 @@
 import pygame
 
-def Button(id, name, surface, rect):
+def Button(name, id, surface, rect):
     try:
         print(f"draw {name} button")
         buttonImage = pygame.image.load(f"assets/{name}{id}.png")
