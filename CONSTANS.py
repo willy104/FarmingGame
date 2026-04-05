@@ -9,3 +9,5 @@ FPS = 60
 #顏色
 BLACK = (0, 0, 0)
 WHITE = (225, 225, 225)
+
+BUTTON_POS = {"start01": (100, 100)}

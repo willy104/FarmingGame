@@ -1,6 +1,7 @@
 import pygame
 import CONSTANS as const
 import Draw
+#畫東西時就寫像是Draw.button(按鈕名稱, 按鈕編號, surface)
 
 def main():
 
